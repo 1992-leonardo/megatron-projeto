@@ -15,7 +15,7 @@ public class MegatronController implements MegatronControllerInterface{
     @Override
     public String testeApi()
     {
-        return "Testando API megatron."; // Apenas uma mensagem.
+        return "Testando API megatron.";
     }
 
     @Override
@@ -50,11 +50,6 @@ public class MegatronController implements MegatronControllerInterface{
         htmlBuilder.append("</html>");
 
         return htmlBuilder.toString();
-    }
-
-    @Override
-    public List<String> dadosSqlite() throws SQLException {
-        return null;
     }
 
 }

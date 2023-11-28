@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="977b3be0-7fd8-476b-be6c-33ba1f7d10e9" name="Changes" comment="" />
+    <list default="true" id="977b3be0-7fd8-476b-be6c-33ba1f7d10e9" name="Changes" comment="Subindo projeto.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/trade/megatronapi/MegatronApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../APITreino/treinoApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../APITreino/treinoApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosAlura/cursoOOP" beforeDir="false" afterPath="$PROJECT_DIR$/../../cursosAlura/cursoOOP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trade/megatronapi/controller/MegatronController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/trade/megatronapi/controller/MegatronController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trade/megatronapi/controller/MegatronControllerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/trade/megatronapi/controller/MegatronControllerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trade/megatronapi/service/IntegracaoCoinService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/trade/megatronapi/service/IntegracaoCoinServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projetoOlandiMegatron" beforeDir="false" afterPath="$PROJECT_DIR$/../../projetoOlandiMegatron" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Subindo projeto." />
+    <option name="LAST_COMMIT_MESSAGE" value="Subindo projeto." />
   </component>
 </project>
